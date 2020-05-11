@@ -1,4 +1,4 @@
-# Leaks Accounts
+# LeakedAccounts
 本仓库收集各个服务器经过确认的黑卡账户，并通过UniBan/UniBan Mirrors订阅。
 
 ## 插入条目
