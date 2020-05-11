@@ -1,6 +1,10 @@
 # LeakedAccounts
 本仓库收集各个服务器经过确认的黑卡账户，并通过UniBan/UniBan Mirrors订阅。
 
+## 订阅
+您可以在 https://unibanmirror.mcsunnyside.com 订阅封禁列表。  
+加速URL：https://cdn.jsdelivr.net/gh/MCZBUnion/LeakedAccounts@master/banlist.json
+
 ## 插入条目
 fork本仓库，编辑并创建Pull Request，等待正版联盟管理员合并。  
 请注意，编辑请务必遵守UniBan API v1版本并确保JSON正确无误。  
